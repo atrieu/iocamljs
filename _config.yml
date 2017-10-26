@@ -2,3 +2,5 @@ name: IOCamlJS Demos
 markdown: kramdown
 pygments: true
 root_path: /iocamljs
+
+theme: jekyll-theme-slate
